@@ -6,7 +6,7 @@ export default function App() {
     <View>
 
       <View>
-        <Image src={require('/img/welcome_to_rect.jpg')}></Image>
+        <Image src={require('./img/welcome_to_rect.jpg')}></Image>
       </View>
       <Text style={styles.welcomeText}>Welcome your React App!</Text>
       <Text>Enter Name:</Text>
