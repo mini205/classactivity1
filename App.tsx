@@ -3,7 +3,6 @@ import { Button, StyleSheet, Text, TextInput, View, Image } from 'react-native';
 
 export default function App() {
   return (
-    <View>
 
       <View>
         <Image src={require('./img/welcome_to_rect.jpg')}></Image>
